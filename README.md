@@ -12,11 +12,11 @@ Menu:
 - Kontak Kami
 - Riwayat Pengiriman
 
-Database name: crud-ci3
-
 Dibuat oleh
 - Dwiky Meidy Lasmana (065118085)
 - Ghina Aulia Fitria (065118102)
 - Firko Idrika Akbarullah (065118065)
+
+Nama Database: ezsend2
 
 Online Web Hosting https://ezsendv2.000webhostapp.com/home
