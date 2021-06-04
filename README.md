@@ -1,6 +1,6 @@
 ![EZSend](https://user-images.githubusercontent.com/75878833/120742430-0a293f00-c521-11eb-9834-703028339a03.png)
 
-adalah suatu website yang berguna sebagai admin / pegawai di perusahaan jasa ekpedisi barang lokal. 
+EZSend merupakan salah satu website yang berguna sebagai admin / pegawai di perusahaan jasa ekpedisi barang lokal.
 
 
 Menu:
