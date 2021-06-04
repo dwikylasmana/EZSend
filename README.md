@@ -18,4 +18,4 @@ Dibuat oleh
 - Ghina Aulia Fitria (065118102)
 - Firko Idrika Akbarullah (065118065)
 
-Online Web Hosting
+Online Web Hosting https://ezsendv2.000webhostapp.com/home
