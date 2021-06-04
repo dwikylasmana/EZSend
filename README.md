@@ -20,3 +20,5 @@ Dibuat oleh
 Nama Database: ezsend2
 
 Online Web Hosting https://ezsendv2.000webhostapp.com/home
+
+Original Repo: https://github.com/Semester-6/EZSend2
