@@ -4,7 +4,7 @@ adalah suatu website yang berguna sebagai admin / pegawai di perusahaan jasa ekp
 
 
 Menu:
-- Login (need fix)
+- Login
 - Homepage
 - Order / tampil
 - Order / tambah
