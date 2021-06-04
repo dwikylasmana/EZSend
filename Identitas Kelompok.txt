@@ -1,0 +1,17 @@
+Tugas Akhir
+ “PENERAPAN FRAMEWORK CODEIGNITER PHP– Jasa Pengiriman Barang (EZSend)”
+
+Disusun Oleh : 
+Dwiky Lesmana (065118085) 
+Ghina Aulia Fitria (065118102)
+Firko Idrika Akbarullah (065118065)
+
+Praktikum : 
+Web Programing E
+
+Asdos : 
+Reza Eka Makhfira  (065117214)
+Sugiyono (065117279)
+
+Dosen : 
+Halimah Tusa’diah, M.Kom.
